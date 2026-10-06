@@ -52,7 +52,7 @@ Validated the Azure Container Registry target instance in the Azure Portal to co
 * **Pricing Plan:** Standard
 * **Provisioning State:** Succeeded
 
-![Verify Registry](container-registry .png)
+![Verify Registry](container-registry.png)
 
 *Inspecting the essentials pane and login server endpoint for the Azure Container Registry.*
 
